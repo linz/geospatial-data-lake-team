@@ -29,8 +29,8 @@ Try to include any stack traces or debugging info.
 -->
 
 #### Software and OS versions
- - OS: [e.g. Windows / Ubuntu ]
- - Environment [e.g. Megaport config, server, desktop used ]
+ - OS: [e.g. Windows / Ubuntu]
+ - Environment [e.g. Megaport config, server, desktop used]
  - Relevant Software Versions [i.e. linz-data-lake --version]
 
 ### Additional context
