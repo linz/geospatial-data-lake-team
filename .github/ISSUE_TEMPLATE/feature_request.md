@@ -27,4 +27,7 @@ In order to [accomplish goal], as a [role], I want to [do something].
 #### Definition of Done
 - [ ] This story is __done__, according to the [team's definition](https://confluence.linz.govt.nz/pages/viewpage.action?pageId=87930423)
 
+#### Subtasks
+<!-- If needed, capture some initial subtasks to assist with estimation and refinement -->
+
 <!-- Add an Estimate, Assignee, Milestone, Release and any relevant Labels -->
