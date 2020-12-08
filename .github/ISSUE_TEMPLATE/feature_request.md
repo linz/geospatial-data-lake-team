@@ -14,8 +14,8 @@ In order to [accomplish goal], as a [role], I want to [do something].
 
 #### Acceptance Criteria
 <!-- Required artifacts to accept this feature as completed. -->
-- [ ] Given [some context / pre-condition], when [some event happens], then [a set of observable consequences should happen]
-- [ ] Given [some context / pre-condition], when [some event happens], then [a set of observable consequences should happen]
+- [ ] Given [a pre-condition], when [an event happens], then [an expected outcome occurs]
+- [ ] Given [a pre-condition], when [an event happens], then [an expected outcome occurs]
 
 #### Additional context
 <!-- Add any other context or mocked CLI commands or screenshots about the feature request here.-->
