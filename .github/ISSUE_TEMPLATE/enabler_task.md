@@ -1,16 +1,12 @@
 ---
-name: Feature request
-about: Suggest an idea for the Geospatial Data Lake team to work on
-labels: enhancement
-
+name: Enabler task
+about: Suggest an idea to enable the team to deliver better
+labels: enabler
 ---
 
-### User Story
-<!-- A user story to describe why a user wants to do something, who the user is and what they want to do -->
-
-In order to [accomplish goal], as a [role], I want to [do something].
-
-<!-- optional: Instead of [existing behaviour] -->
+### Enaber
+<!-- A description of the task that covers what is needed to be done and why. It should be understandable by all members of the team -->
+xxx
 
 #### Acceptance Criteria
 <!-- Required artifacts to accept this feature as completed. -->
@@ -27,4 +23,6 @@ In order to [accomplish goal], as a [role], I want to [do something].
 #### Definition of Done
 - [ ] This story is __done__, according to the [team's definition](https://confluence.linz.govt.nz/pages/viewpage.action?pageId=87930423)
 
-<!-- Add an Estimate, Assignee, Milestone, Release and any relevant Labels -->
+<!-- Please add one or more of these labels: 'spike', 'refactor', 'architecture', 'infrastructure', 'compliance' -->
+
+<!-- Please add an Estimate, Assignee, Milestone, Release -->
