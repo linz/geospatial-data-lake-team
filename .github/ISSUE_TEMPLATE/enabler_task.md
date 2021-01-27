@@ -1,21 +1,21 @@
 ---
-name: Enabler task
+name: Enabler
 about: Suggest an idea to enable the team to deliver better
 labels: enabler
 ---
 
-### Enaber
-<!-- A description of the task that covers what is needed to be done and why. It should be understandable by all members of the team -->
+### Enabler
+<!-- A description of the enabler that covers what needs to be done, and importantly, why it needs to be done. It should be understandable by all members of the team. -->
 xxx
 
 #### Acceptance Criteria
-<!-- Required artifacts to accept this feature as completed. -->
-- [ ] ...
+<!-- Requirements to accept this enabler as completed. -->
+- [ ] ... 
 - [ ] ...
 - [ ] ...
 
 #### Additional context
-<!-- Add any other context or mocked CLI commands or screenshots about the feature request here.-->
+<!-- Add any other context here -->
 
 #### Definition of Ready
 - [ ] This story is __ready__ to work on, according to the [team's definition](https://confluence.linz.govt.nz/pages/viewpage.action?pageId=87930423)
@@ -24,5 +24,3 @@ xxx
 - [ ] This story is __done__, according to the [team's definition](https://confluence.linz.govt.nz/pages/viewpage.action?pageId=87930423)
 
 <!-- Please add one or more of these labels: 'spike', 'refactor', 'architecture', 'infrastructure', 'compliance' -->
-
-<!-- Please add an Estimate, Assignee, Milestone, Release -->
