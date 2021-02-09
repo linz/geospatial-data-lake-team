@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for the Geospatial Data Lake team to work on
-labels: enhancement
+name: User story
+about: Suggest an idea to give the user a more valuable product
+labels: user story
 
 ---
 
@@ -20,13 +20,13 @@ So that [some reason], as a [role], I want to [do something].
 #### Additional context
 <!-- Add any other context or mocked CLI commands or screenshots about the feature request here.-->
 
+#### Tasks
+<!-- Tasks needed to complete this enabler -->
+- [ ] ...
+- [ ] ...
+
 #### Definition of Ready
 - [ ] This story is __ready__ to work on, according to the [team's definition](https://confluence.linz.govt.nz/pages/viewpage.action?pageId=87930423)
 
 #### Definition of Done
 - [ ] This story is __done__, according to the [team's definition](https://confluence.linz.govt.nz/pages/viewpage.action?pageId=87930423)
-
-#### Subtasks
-<!-- If needed, capture some initial subtasks to assist with estimation and refinement -->
-
-<!-- Add an Estimate, Assignee, Milestone, Release and any relevant Labels -->
