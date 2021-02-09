@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for the Geospatial Data Lake team to work on
-labels: user, story
+name: User story
+about: Suggest an idea to give the user a more valuable product
+labels: user story
 
 ---
 
